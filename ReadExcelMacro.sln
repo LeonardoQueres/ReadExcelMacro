@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadExcelMacro", "ReadExcelMacro\ReadExcelMacro.csproj", "{6DB8BAF6-6602-4ED0-984A-1CDF32AABB69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DB8BAF6-6602-4ED0-984A-1CDF32AABB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB8BAF6-6602-4ED0-984A-1CDF32AABB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB8BAF6-6602-4ED0-984A-1CDF32AABB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB8BAF6-6602-4ED0-984A-1CDF32AABB69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B548244D-DE39-4A94-BA30-0B87F96A13A3}
+	EndGlobalSection
+EndGlobal
